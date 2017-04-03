@@ -1,0 +1,7 @@
+c:\users\rytis\documents\visual studio 2017\Projects\Check_In\Check_In\bin\Debug\netstandard1.4\Check_In.deps.json
+c:\users\rytis\documents\visual studio 2017\Projects\Check_In\Check_In\bin\Debug\netstandard1.4\Check_In.dll
+c:\users\rytis\documents\visual studio 2017\Projects\Check_In\Check_In\bin\Debug\netstandard1.4\Check_In.pdb
+c:\users\rytis\documents\visual studio 2017\Projects\Check_In\Check_In\obj\Debug\netstandard1.4\Check_In.csprojResolveAssemblyReference.cache
+c:\users\rytis\documents\visual studio 2017\Projects\Check_In\Check_In\obj\Debug\netstandard1.4\Check_In.AssemblyInfo.cs
+c:\users\rytis\documents\visual studio 2017\Projects\Check_In\Check_In\obj\Debug\netstandard1.4\Check_In.dll
+c:\users\rytis\documents\visual studio 2017\Projects\Check_In\Check_In\obj\Debug\netstandard1.4\Check_In.pdb
